@@ -1,0 +1,9 @@
+.banner{
+	background-image: url(../../PHOTOS/ndlagarde.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+}
